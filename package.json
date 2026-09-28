@@ -1,0 +1,27 @@
+{
+  "name": "expenseflow",
+  "version": "1.0.0",
+  "description": "Mini Full-Stack Expense Tracker Web Application - Track your money. Understand your spending.",
+  "main": "backend/server.js",
+  "scripts": {
+    "start": "node backend/server.js",
+    "dev": "node --watch backend/server.js",
+    "seed": "node backend/seed.js"
+  },
+  "keywords": [
+    "expense-tracker",
+    "full-stack",
+    "express",
+    "mongodb",
+    "vanilla-js",
+    "rest-api"
+  ],
+  "author": "ExpenseFlow Team",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.12.1"
+  }
+}
