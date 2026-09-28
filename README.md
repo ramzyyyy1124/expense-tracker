@@ -191,8 +191,8 @@ All transaction endpoints use the base URL: `/api/transactions`
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/expenseflow.git
-cd expenseflow
+git clone https://github.com/ramzyyyy1124/expense-tracker.git
+cd expense-tracker
 ```
 
 ### Step 2: Install Dependencies
